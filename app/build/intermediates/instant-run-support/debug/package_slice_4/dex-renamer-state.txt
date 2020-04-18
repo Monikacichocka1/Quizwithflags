@@ -1,0 +1,4 @@
+#Sat Apr 18 10:20:40 CEST 2020
+base.0=C\:\\Users\\monik\\AndroidStudioProjects\\Quizwithflags\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+renamed.0=classes.dex
+file.0=C\:\\Users\\monik\\AndroidStudioProjects\\Quizwithflags\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex

@@ -1,0 +1,7 @@
+#Sat Apr 18 10:20:42 CEST 2020
+base.0=C\:\\Users\\monik\\AndroidStudioProjects\\Quizwithflags\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_86b249e21684fc3d4bc22066887a8c1701c782c4
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\monik\\AndroidStudioProjects\\Quizwithflags\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b7dda2ad317daa2f62d98babfe44d6dc262dd11b\\classes.dex
+base.1=C\:\\Users\\monik\\AndroidStudioProjects\\Quizwithflags\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b7dda2ad317daa2f62d98babfe44d6dc262dd11b
+file.0=C\:\\Users\\monik\\AndroidStudioProjects\\Quizwithflags\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_86b249e21684fc3d4bc22066887a8c1701c782c4\\classes.dex

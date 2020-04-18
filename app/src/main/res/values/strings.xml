@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">QuizWithFlags</string>
+    <string name="action_settings">Settings</string>
+    <string name="number_of_choices">Liczba możliwości</string>
+    <string name="default_region">North_America</string>
+    <string name="default_region_message">Musisz wybrać przynajmniej jeden obszar. Jako domyślny obszar wybrano Amerykę Północną</string>
+    <string name="guess_country">Jaki to kraj?</string>
+    <string name="image_description">Obszar bieżącej flagi</string>
+    <string name="incorrect_answer">Błąd!</string>
+    <string name="number_of_choices_description">Wyświetla 2, 4, 6 lub 8 możliwości</string>
+    <string name="question">Pytanie %1$d z %2$d</string>
+    <string name="reset_quiz">Resetuj quiz</string>
+    <string name="restarting_quiz">Quiz zostanie uruchomiony ponownie z nowymi ustawieniami</string>
+    <string name="results">%1$d odpowiedzi, %2$.02f%% poprawnych</string>
+    <string name="world_regions">Obszary</string>
+    <string name="world_regions_description">Obszary, których ma dotyczyć quiz</string>
+    <string name="title_activity_settings">Ustawienia</string>
+</resources>
